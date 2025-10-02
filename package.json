@@ -1,0 +1,29 @@
+{
+  "name": "101491591_comp3123_labtest1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "COMP3123 Lab Test 1 - Node.js ES6 Solutions",
+  "main": "index.js",
+  "scripts": {
+    "q1": "node question-1/lowerCaseWords.js",
+    "q2": "node question-2/callbacks.js",
+    "add-logs": "node question-3/add.js",
+    "remove-logs": "node question-3/remove.js"
+  },
+  "keywords": [
+    "comp3123",
+    "labtest1",
+    "node",
+    "es6"
+  ],
+  "author": "Parsa Molahosseini",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsamollahoseini/101491591_comp3123_labtest1-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parsamollahoseini/101491591_comp3123_labtest1-/issues"
+  },
+  "homepage": "https://github.com/parsamollahoseini/101491591_comp3123_labtest1-#readme"
+}
