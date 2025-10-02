@@ -11,7 +11,7 @@ const removeLogs = () => {
 
 
     if (fs.existsSync(logsDir)) {
-        // Read all files in the Logs directory
+      
         const files = fs.readdirSync(logsDir);
 
 
